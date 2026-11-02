@@ -12,4 +12,8 @@ env/
 Thumbs.db
 .DS_Store
 
+#Cтарые версии курсов
 archive2/
+
+# Учебный репозиторий VibeDrive (свой .git, D9)
+vibedrive-assistant/
